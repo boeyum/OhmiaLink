@@ -16,7 +16,7 @@ Appen er meget enkel å bruke. Når appen startes vil man se en "knapp" med bild
 
 <br/>
 ***Repository forklaring***<br>
-Repository inneholder full source til app'en. Denne kan lastes ned å kompileres / modifiseres i Android Studio. Hvis man ikke ønsker å gjøre noe med app'en (eller ikke har Android Studio), kan man laste ned  "app-release.apk" som ligger lagret under path "app/release". Dette  er en signert APK, em er ikke lagt ut på playstore og krever derfor at man godkjenner installasjonen.
+Repository inneholder full source til app'en. Denne kan lastes ned å kompileres / modifiseres i Android Studio. Hvis man ikke ønsker å gjøre noe med app'en (eller ikke har Android Studio), kan man laste ned  "app-release.apk" som ligger lagret under path "app/release". Dette  er en signert APK, em er ikke lagt ut på playstore og krever derfor at man godkjenner installasjonen.<br><br>
 
 #Licens
 Licensed under the Apache License, Version 2.0 (the “License”).
