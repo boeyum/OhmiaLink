@@ -1,0 +1,5 @@
+jib/no/app/ohmialink/BuildConfig.java
+ jib.no.app.ohmialink.BuildConfig
+jib/no/app/ohmialink/MainActivity.java
+ jib.no.app.ohmialink.MainActivity
+ jib.no.app.ohmialink.MainActivity$1
